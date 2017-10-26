@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountTracker", "AccountTracker\AccountTracker.csproj", "{DB443D31-1926-4276-BD32-A81C1A0AE338}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountTrackerConsole", "AccountTrackerConsole\AccountTrackerConsole.csproj", "{19B36B8A-66F4-4001-8EE0-92408509BAFE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{DB443D31-1926-4276-BD32-A81C1A0AE338}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB443D31-1926-4276-BD32-A81C1A0AE338}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB443D31-1926-4276-BD32-A81C1A0AE338}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19B36B8A-66F4-4001-8EE0-92408509BAFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19B36B8A-66F4-4001-8EE0-92408509BAFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19B36B8A-66F4-4001-8EE0-92408509BAFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19B36B8A-66F4-4001-8EE0-92408509BAFE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
